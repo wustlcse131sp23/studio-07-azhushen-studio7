@@ -35,8 +35,6 @@ public class Fraction {
 		return reci;
 	}
 	
-	
-	
 	public static void main(String[] args) {
 		Fraction one = new Fraction (3,4);
 		Fraction two = new Fraction (5,6);
